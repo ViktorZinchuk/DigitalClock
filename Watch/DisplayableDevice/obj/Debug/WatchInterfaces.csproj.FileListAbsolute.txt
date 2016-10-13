@@ -1,0 +1,9 @@
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\DisplayableDevice\bin\Debug\DisplayableDevice.dll
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\DisplayableDevice\bin\Debug\DisplayableDevice.pdb
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\DisplayableDevice\obj\Debug\DisplayableDevice.dll
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\DisplayableDevice\obj\Debug\DisplayableDevice.pdb
+D:\Work&Examples\work\Digitalclock\Watch\DisplayableDevice\bin\Debug\DisplayableDevice.dll
+D:\Work&Examples\work\Digitalclock\Watch\DisplayableDevice\bin\Debug\DisplayableDevice.pdb
+D:\Work&Examples\work\Digitalclock\Watch\DisplayableDevice\obj\Debug\WatchInterfaces.csprojResolveAssemblyReference.cache
+D:\Work&Examples\work\Digitalclock\Watch\DisplayableDevice\obj\Debug\DisplayableDevice.dll
+D:\Work&Examples\work\Digitalclock\Watch\DisplayableDevice\obj\Debug\DisplayableDevice.pdb

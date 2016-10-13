@@ -1,0 +1,4 @@
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\Clock\bin\Debug\Clock.dll
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\Clock\bin\Debug\Clock.pdb
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\Clock\obj\Debug\Clock.dll
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\Clock\obj\Debug\Clock.pdb

@@ -1,0 +1,10 @@
+C:\Users\vzinchuk\Desktop\Simple Clock\Stopwatch\StopwatchLib\bin\Debug\StopwatchLib.dll
+C:\Users\vzinchuk\Desktop\Simple Clock\Stopwatch\StopwatchLib\bin\Debug\StopwatchLib.pdb
+C:\Users\vzinchuk\Desktop\Simple Clock\Stopwatch\StopwatchLib\obj\Debug\StopwatchLib.csprojResolveAssemblyReference.cache
+C:\Users\vzinchuk\Desktop\Simple Clock\Stopwatch\StopwatchLib\obj\Debug\StopwatchLib.dll
+C:\Users\vzinchuk\Desktop\Simple Clock\Stopwatch\StopwatchLib\obj\Debug\StopwatchLib.pdb
+C:\Users\vzinchuk\Desktop\Digitalclock\Stopwatch\StopwatchLib\bin\Debug\StopwatchLib.dll
+C:\Users\vzinchuk\Desktop\Digitalclock\Stopwatch\StopwatchLib\bin\Debug\StopwatchLib.pdb
+C:\Users\vzinchuk\Desktop\Digitalclock\Stopwatch\StopwatchLib\obj\Debug\StopwatchLib.csprojResolveAssemblyReference.cache
+C:\Users\vzinchuk\Desktop\Digitalclock\Stopwatch\StopwatchLib\obj\Debug\StopwatchLib.dll
+C:\Users\vzinchuk\Desktop\Digitalclock\Stopwatch\StopwatchLib\obj\Debug\StopwatchLib.pdb

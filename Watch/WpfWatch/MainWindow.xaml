@@ -1,0 +1,61 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:WpfWatch.ViewModels" 
+        xmlns:wpf="clr-namespace:WpfWatch" 
+        x:Class="WpfWatch.MainWindow"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:vm="clr-namespace:WpfWatch.ViewModels"
+        Title="Watch" Height="128" Width="410" Background="#FF818181" ResizeMode="NoResize">
+    
+    <Window.Resources>
+        <local:ViewModelWatch x:Key="ViewModelWatch"/>
+    </Window.Resources>
+    
+    <Grid DataContext="{Binding Source={StaticResource ViewModelWatch}}" Width="400" Height="100" Background="#FF818181" Margin="0,0,0,0">
+        <Button Content="M" Margin="7,0,364,0" Height="29" Width="29" VerticalAlignment="Top" RenderTransformOrigin="0.862,0.276">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="PreviewMouseDown" >
+                    <i:InvokeCommandAction Command="{Binding ModeButtonKeyDown}" />
+                </i:EventTrigger>
+                <i:EventTrigger EventName="PreviewMouseUp" >
+                    <i:InvokeCommandAction Command="{Binding ModeButtonKeyUp}" />
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </Button>
+        <Button Content="B" Margin="7,61,364,0" Height="29" Width="29" VerticalAlignment="Top">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="PreviewMouseDown" >
+                    <i:InvokeCommandAction Command="{Binding BacklightButtonKeyDown}" />
+                </i:EventTrigger>
+                <i:EventTrigger EventName="PreviewMouseUp" >
+                    <i:InvokeCommandAction Command="{Binding BacklightButtonKeyUp}" />
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </Button>
+        <Button Content="S" Margin="356,0,15,0" Height="29" Width="29" VerticalAlignment="Top">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="PreviewMouseDown" >
+                    <i:InvokeCommandAction Command="{Binding SettingsButtonKeyDown}" />
+                </i:EventTrigger>
+                <i:EventTrigger EventName="PreviewMouseUp" >
+                    <i:InvokeCommandAction Command="{Binding SettingsButtonKeyUp}" />
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </Button>
+        <Button Content="F" Margin="356,61,15,0" Height="29" Width="29" VerticalAlignment="Top">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="PreviewMouseDown" >
+                    <i:InvokeCommandAction Command="{Binding FunctionalButtonKeyDown}" />
+                </i:EventTrigger>
+                <i:EventTrigger EventName="PreviewMouseUp" >
+                    <i:InvokeCommandAction Command="{Binding FunctionalButtonKeyUp}" />
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </Button>
+        <wpf:DisplaySimpleClock DataContext="{Binding VMSimpleClock}" Backlight="{Binding Source={StaticResource ViewModelWatch}, Path=Backlight}" Background="Black" Visibility="{Binding DisplayON}" HorizontalAlignment="Left" Margin="41,0,0,0" VerticalAlignment="Top"/>
+        <wpf:DisplayProClock DataContext="{Binding VMProClock}" Backlight="{Binding Source={StaticResource ViewModelWatch}, Path=Backlight}"  Background="Black" Visibility="{Binding DisplayON}" HorizontalAlignment="Left" Margin="41,0,0,0" VerticalAlignment="Top"/>
+        <wpf:DisplayStopwatch DataContext="{Binding VMStopwatch}" Backlight="{Binding Source={StaticResource ViewModelWatch}, Path=Backlight}" Background="Black" Visibility="{Binding DisplayON}" HorizontalAlignment="Left" Margin="41,0,0,0" VerticalAlignment="Top"/>
+        <wpf:DisplayTimer DataContext="{Binding VMTimer}" Backlight="{Binding Source={StaticResource ViewModelWatch}, Path=Backlight}" Background="Black" Visibility="{Binding DisplayON}" HorizontalAlignment="Left" Margin="41,0,0,0" VerticalAlignment="Top"/>
+   </Grid>
+</Window>

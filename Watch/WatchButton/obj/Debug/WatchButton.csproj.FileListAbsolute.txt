@@ -1,0 +1,8 @@
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\WatchButton\bin\Debug\WatchButton.dll
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\WatchButton\bin\Debug\WatchButton.pdb
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\WatchButton\obj\Debug\WatchButton.dll
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\WatchButton\obj\Debug\WatchButton.pdb
+D:\Work&Examples\work\Digitalclock\Watch\WatchButton\bin\Debug\WatchButton.dll
+D:\Work&Examples\work\Digitalclock\Watch\WatchButton\bin\Debug\WatchButton.pdb
+D:\Work&Examples\work\Digitalclock\Watch\WatchButton\obj\Debug\WatchButton.dll
+D:\Work&Examples\work\Digitalclock\Watch\WatchButton\obj\Debug\WatchButton.pdb

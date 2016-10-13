@@ -1,0 +1,22 @@
+C:\Users\vzinchuk\Desktop\Simple Clock\Timer\Timer\bin\Debug\Timer.dll
+C:\Users\vzinchuk\Desktop\Simple Clock\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\vzinchuk\Desktop\Simple Clock\Timer\Timer\obj\Debug\Timer.dll
+C:\Users\vzinchuk\Desktop\Simple Clock\Timer\Timer\obj\Debug\Timer.pdb
+C:\Users\vzinchuk\Desktop\Digitalclock\Timer\Timer\bin\Debug\Timer.dll
+C:\Users\vzinchuk\Desktop\Digitalclock\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\vzinchuk\Desktop\Digitalclock\Timer\Timer\obj\Debug\WatchTimer.csprojResolveAssemblyReference.cache
+C:\Users\vzinchuk\Desktop\Digitalclock\Timer\Timer\obj\Debug\Timer.dll
+C:\Users\vzinchuk\Desktop\Digitalclock\Timer\Timer\obj\Debug\Timer.pdb
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\Timer\bin\Debug\Timer.dll
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\Timer\bin\Debug\Timer.pdb
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\Timer\obj\Debug\WatchTimer.csprojResolveAssemblyReference.cache
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\Timer\obj\Debug\Timer.dll
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\Timer\obj\Debug\Timer.pdb
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\Timer\bin\Debug\WatchButton.dll
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\Timer\bin\Debug\WatchButton.pdb
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\Timer\bin\Debug\DisplayableDevice.dll
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\Timer\bin\Debug\DisplayableDevice.pdb
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\Timer\bin\Debug\WatchDevices.dll
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\Timer\bin\Debug\WatchDevices.pdb
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\Timer\bin\Debug\Clock.dll
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\Timer\bin\Debug\Clock.pdb

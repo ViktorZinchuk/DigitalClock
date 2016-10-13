@@ -1,0 +1,9 @@
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\ClockEngine\bin\Debug\ClockEngine.dll
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\ClockEngine\bin\Debug\ClockEngine.pdb
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\ClockEngine\obj\Debug\ClockEngine.dll
+C:\Users\vzinchuk\Desktop\Digitalclock\Watch\ClockEngine\obj\Debug\ClockEngine.pdb
+D:\Work&Examples\work\Digitalclock\Watch\ClockEngine\bin\Debug\ClockEngine.dll
+D:\Work&Examples\work\Digitalclock\Watch\ClockEngine\bin\Debug\ClockEngine.pdb
+D:\Work&Examples\work\Digitalclock\Watch\ClockEngine\obj\Debug\ClockEngine.csprojResolveAssemblyReference.cache
+D:\Work&Examples\work\Digitalclock\Watch\ClockEngine\obj\Debug\ClockEngine.dll
+D:\Work&Examples\work\Digitalclock\Watch\ClockEngine\obj\Debug\ClockEngine.pdb

@@ -1,0 +1,141 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleClock", "SimpleClock\SimpleClock.csproj", "{58FF6168-A268-42CF-B3B1-C02E56B62258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProClock", "ProClock\ProClock.csproj", "{4A87E23B-8012-47D4-BC7A-7C95DB8B7A90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchButton", "WatchButton\WatchButton.csproj", "{CECE1D28-1552-4C8D-996A-39A29C0D836C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalWatch", "DigitalWatch\DigitalWatch.csproj", "{2C27820B-1957-4D77-BDDF-4C0A998D1EF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer", "Timer\Timer.csproj", "{52A5D37A-C38E-49E5-B75C-09B51E334A74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stopwatch", "StopwatchLib\Stopwatch.csproj", "{5548C548-31E4-4E86-8F77-51F4741693BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{089D676E-76EA-4165-A339-310FB9F578BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchInterfaces", "DisplayableDevice\WatchInterfaces.csproj", "{DCFF31A4-F8DC-46FF-94B2-141C236E0A71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWatch", "ConsoleWatch\ConsoleWatch.csproj", "{29FB4E2D-2E60-441D-B3F5-655228739224}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockEngine", "ClockEngine\ClockEngine.csproj", "{2C7E86E8-C55B-4825-95F0-1ADD1ED9B42B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsWatch", "WindowsFormsWatch\WindowsFormsWatch.csproj", "{A0DF541F-C5C7-43C6-9F18-A236F12CF330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfWatch", "WpfWatch\WpfWatch.csproj", "{C859A7FD-F32C-4A0B-9AB7-79DBA604F7A8}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 12
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://viktorzinchuk.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SimpleClock\\SimpleClock.csproj
+		SccProjectTopLevelParentUniqueName1 = Watch.sln
+		SccProjectName1 = SimpleClock
+		SccLocalPath1 = SimpleClock
+		SccProjectUniqueName2 = ProClock\\ProClock.csproj
+		SccProjectTopLevelParentUniqueName2 = Watch.sln
+		SccProjectName2 = ProClock
+		SccLocalPath2 = ProClock
+		SccProjectUniqueName3 = WatchButton\\WatchButton.csproj
+		SccProjectTopLevelParentUniqueName3 = Watch.sln
+		SccProjectName3 = WatchButton
+		SccLocalPath3 = WatchButton
+		SccProjectUniqueName4 = DigitalWatch\\DigitalWatch.csproj
+		SccProjectTopLevelParentUniqueName4 = Watch.sln
+		SccProjectName4 = DigitalWatch
+		SccLocalPath4 = DigitalWatch
+		SccProjectUniqueName5 = Timer\\Timer.csproj
+		SccProjectTopLevelParentUniqueName5 = Watch.sln
+		SccProjectName5 = Timer
+		SccLocalPath5 = Timer
+		SccProjectUniqueName6 = StopwatchLib\\Stopwatch.csproj
+		SccProjectTopLevelParentUniqueName6 = Watch.sln
+		SccProjectName6 = StopwatchLib
+		SccLocalPath6 = StopwatchLib
+		SccProjectUniqueName7 = DisplayableDevice\\WatchInterfaces.csproj
+		SccProjectTopLevelParentUniqueName7 = Watch.sln
+		SccProjectName7 = DisplayableDevice
+		SccLocalPath7 = DisplayableDevice
+		SccProjectUniqueName8 = ConsoleWatch\\ConsoleWatch.csproj
+		SccProjectName8 = ConsoleWatch
+		SccLocalPath8 = ConsoleWatch
+		SccProjectUniqueName9 = ClockEngine\\ClockEngine.csproj
+		SccProjectTopLevelParentUniqueName9 = Watch.sln
+		SccProjectName9 = ClockEngine
+		SccLocalPath9 = ClockEngine
+		SccProjectUniqueName10 = WindowsFormsWatch\\WindowsFormsWatch.csproj
+		SccProjectName10 = WindowsFormsWatch
+		SccLocalPath10 = WindowsFormsWatch
+		SccProjectUniqueName11 = WpfWatch\\WpfWatch.csproj
+		SccProjectName11 = WpfWatch
+		SccLocalPath11 = WpfWatch
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58FF6168-A268-42CF-B3B1-C02E56B62258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FF6168-A268-42CF-B3B1-C02E56B62258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FF6168-A268-42CF-B3B1-C02E56B62258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FF6168-A268-42CF-B3B1-C02E56B62258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A87E23B-8012-47D4-BC7A-7C95DB8B7A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A87E23B-8012-47D4-BC7A-7C95DB8B7A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A87E23B-8012-47D4-BC7A-7C95DB8B7A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A87E23B-8012-47D4-BC7A-7C95DB8B7A90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CECE1D28-1552-4C8D-996A-39A29C0D836C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECE1D28-1552-4C8D-996A-39A29C0D836C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECE1D28-1552-4C8D-996A-39A29C0D836C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECE1D28-1552-4C8D-996A-39A29C0D836C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C27820B-1957-4D77-BDDF-4C0A998D1EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C27820B-1957-4D77-BDDF-4C0A998D1EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C27820B-1957-4D77-BDDF-4C0A998D1EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C27820B-1957-4D77-BDDF-4C0A998D1EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A5D37A-C38E-49E5-B75C-09B51E334A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A5D37A-C38E-49E5-B75C-09B51E334A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A5D37A-C38E-49E5-B75C-09B51E334A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A5D37A-C38E-49E5-B75C-09B51E334A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5548C548-31E4-4E86-8F77-51F4741693BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5548C548-31E4-4E86-8F77-51F4741693BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5548C548-31E4-4E86-8F77-51F4741693BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5548C548-31E4-4E86-8F77-51F4741693BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCFF31A4-F8DC-46FF-94B2-141C236E0A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFF31A4-F8DC-46FF-94B2-141C236E0A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFF31A4-F8DC-46FF-94B2-141C236E0A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFF31A4-F8DC-46FF-94B2-141C236E0A71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29FB4E2D-2E60-441D-B3F5-655228739224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FB4E2D-2E60-441D-B3F5-655228739224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FB4E2D-2E60-441D-B3F5-655228739224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FB4E2D-2E60-441D-B3F5-655228739224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C7E86E8-C55B-4825-95F0-1ADD1ED9B42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7E86E8-C55B-4825-95F0-1ADD1ED9B42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7E86E8-C55B-4825-95F0-1ADD1ED9B42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7E86E8-C55B-4825-95F0-1ADD1ED9B42B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0DF541F-C5C7-43C6-9F18-A236F12CF330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0DF541F-C5C7-43C6-9F18-A236F12CF330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0DF541F-C5C7-43C6-9F18-A236F12CF330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0DF541F-C5C7-43C6-9F18-A236F12CF330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C859A7FD-F32C-4A0B-9AB7-79DBA604F7A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C859A7FD-F32C-4A0B-9AB7-79DBA604F7A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C859A7FD-F32C-4A0B-9AB7-79DBA604F7A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C859A7FD-F32C-4A0B-9AB7-79DBA604F7A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4A87E23B-8012-47D4-BC7A-7C95DB8B7A90} = {089D676E-76EA-4165-A339-310FB9F578BD}
+		{CECE1D28-1552-4C8D-996A-39A29C0D836C} = {089D676E-76EA-4165-A339-310FB9F578BD}
+		{2C27820B-1957-4D77-BDDF-4C0A998D1EF4} = {089D676E-76EA-4165-A339-310FB9F578BD}
+		{52A5D37A-C38E-49E5-B75C-09B51E334A74} = {089D676E-76EA-4165-A339-310FB9F578BD}
+		{5548C548-31E4-4E86-8F77-51F4741693BE} = {089D676E-76EA-4165-A339-310FB9F578BD}
+		{58FF6168-A268-42CF-B3B1-C02E56B62258} = {089D676E-76EA-4165-A339-310FB9F578BD}
+		{DCFF31A4-F8DC-46FF-94B2-141C236E0A71} = {089D676E-76EA-4165-A339-310FB9F578BD}
+		{2C7E86E8-C55B-4825-95F0-1ADD1ED9B42B} = {089D676E-76EA-4165-A339-310FB9F578BD}
+	EndGlobalSection
+EndGlobal

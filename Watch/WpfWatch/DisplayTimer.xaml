@@ -1,0 +1,14 @@
+﻿<c:DisplayUserControl x:Class="WpfWatch.DisplayTimer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:c ="clr-namespace:WpfWatch"
+             mc:Ignorable="d" 
+          d:DesignHeight="100" d:DesignWidth="310">
+    <Grid x:Name="GridTimer" Width="310" Height="100">
+        <Label x:Name="Position1" Content="{Binding Position1}" Visibility="{Binding Position1_visible}" HorizontalAlignment="Left" Margin="75,10,0,0" VerticalAlignment="Top" Height="80" Width="70" RenderTransformOrigin="-2.294,2.228" Foreground="LightSteelBlue" FontFamily="Arial" FontSize="55"/>
+        <Label Content="." Visibility="Visible" HorizontalAlignment="Left" Margin="150,10,0,0" VerticalAlignment="Top" Height="80" Width="20" Foreground="LightSteelBlue" FontFamily="Arial" FontSize="55"/>
+        <Label x:Name="Position2" Content="{Binding Position2}" Visibility="{Binding Position2_visible}" HorizontalAlignment="Left" Margin="175,10,0,0" VerticalAlignment="Top" Height="80" Width="70" Foreground="LightSteelBlue" FontFamily="Arial" FontSize="55"/>
+    </Grid>
+</c:DisplayUserControl>
